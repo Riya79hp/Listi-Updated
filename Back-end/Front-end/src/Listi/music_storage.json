@@ -1,0 +1,524 @@
+[
+    {
+        "Name": "Shape of You",
+        "Duration": "3:54",
+        "Artist": "Ed Sheeran",
+        "src": "https://upload.wikimedia.org/wikipedia/en/b/b4/Shape_Of_You_%28Official_Single_Cover%29_by_Ed_Sheeran.png"
+    },
+    {
+        "Name": "Baby",
+        "Duration": "3:36",
+        "Artist": "Justin Bieber",
+        "src": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7089713a-37d5-4ec0-adbf-d619a18cc7e3/d53e47j-cba19453-20f4-430a-8825-c78e2a5e787c.png"
+    },
+    {
+        "Name": "Good for You",
+        "Duration": "3:41",
+        "Artist": "Selena Gomez",
+        "src": "https://nxtstyle.com/wp-content/uploads/2015/08/1455.-SELENA-GOMEZ-FT.-AAP-ROCKY-GOOD-FOR-YOU-GREY-REMIX.jpg"
+    },
+    {
+        "Name": "Love Story",
+        "Duration": "3:55",
+        "Artist": "Taylor Swift",
+        "src": "https://upload.wikimedia.org/wikipedia/en/0/01/Taylor_Swift_-_Love_Story.png"
+    },
+    {
+        "Name": "Blinding Lights",
+        "Duration": "3:20",
+        "Artist": "The Weeknd",
+        "src": "https://upload.wikimedia.org/wikipedia/en/e/e6/The_Weeknd_-_Blinding_Lights.png"
+    },
+    {
+        "Name": "drivers license",
+        "Duration": "4:02",
+        "Artist": "Olivia Rodrigo",
+        "src": "https://upload.wikimedia.org/wikipedia/en/thumb/0/09/Drivers_License_by_Olivia_Rodrigo.png/220px-Drivers_License_by_Olivia_Rodrigo.png"
+    },
+    {
+        "Name": "Levitating",
+        "Duration": "3:23",
+        "Artist": "Dua Lipa",
+        "src": "https://i1.sndcdn.com/artworks-IeJj19bzbXIrLiE3-Foa40Q-t500x500.jpg"
+    },
+    {
+        "Name": "Peaches",
+        "Duration": "3:18",
+        "Artist": "Justin Bieber",
+        "src": "https://upload.wikimedia.org/wikipedia/en/0/0a/Justin_Bieber_-_Peaches.png"
+    },
+    {
+        "Name": "Willow",
+        "Duration": "3:34",
+        "Artist": "Taylor Swift",
+        "src": "https://i.scdn.co/image/ab67616d0000b27325751b4b32829d6bbfe6be7f"
+    },
+    {
+        "Name": "Deja Vu",
+        "Duration": "3:35",
+        "Artist": "Olivia Rodrigo",
+        "src": "https://upload.wikimedia.org/wikipedia/en/a/af/Olivia_Rodrigo_-_Deja_Vu.png"
+    },
+    {
+        "Name": "Dynamite",
+        "Duration": "3:19",
+        "Artist": "BTS",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/5/5f/BTS_-_Dynamite_%28official_cover%29.png"
+    },
+    {
+        "Name": "Positions",
+        "Duration": "2:52",
+        "Artist": "Ariana Grande",
+        "src": "https://upload.wikimedia.org/wikipedia/en/a/a0/Ariana_Grande_-_Positions.png"
+    },
+    {
+        "Name": "Sorry",
+        "Duration": "3:20",
+        "Artist": "Justin Bieber",
+        "src": "https://upload.wikimedia.org/wikipedia/en/d/dc/Justin_Bieber_-_Sorry_%28Official_Single_Cover%29.png"
+    },
+    {
+        "Name": "Lose You to Love Me",
+        "Duration": "3:27",
+        "Artist": "Selena Gomez",
+        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8bInXeTnoCwFMgkWkLcmOKBplf4ci4-MI2O36_4D1ZA&s"
+    },
+    {
+        "Name": "Cardigan",
+        "Duration": "3:59",
+        "Artist": "Taylor Swift",
+        "src": "https://m.media-amazon.com/images/M/MV5BOTVhOTlkNjItMDMxMC00ZWU4LWIyZWItOWZkNjg3YzdkOWU4XkEyXkFqcGdeQXVyMTAxODQ2NDU1._V1_.jpg"
+    },
+    {
+        "Name": "Stay",
+        "Duration": "2:19",
+        "Artist": "The Kid LAROI & Justin Bieber",
+        "src": "https://upload.wikimedia.org/wikipedia/en/0/0c/The_Kid_Laroi_and_Justin_Bieber_-_Stay.png"
+    },
+    {
+        "Name": "Montero",
+        "Duration": "2:17",
+        "Artist": "Lil Nas X",
+        "src": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/Lil_Nas_X_-_Montero.png/220px-Lil_Nas_X_-_Montero.png"
+    },
+    {
+        "Name": "Save Your Tears",
+        "Duration": "3:35",
+        "Artist": "The Weeknd",
+        "src": "https://i.scdn.co/image/ab67616d00001e028863bc11d2aa12b54f5aeb36"
+    },
+    {
+        "Name": "Kiss Me More (feat. SZA)",
+        "Duration": "3:28",
+        "Artist": "Doja Cat",
+        "src": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b1/Doja_Cat_-_Kiss_Me_More.png/220px-Doja_Cat_-_Kiss_Me_More.png"
+    },
+    {
+        "Name": "good 4 u",
+        "Duration": "2:58",
+        "Artist": "Olivia Rodrigo",
+        "src": "https://upload.wikimedia.org/wikipedia/en/3/3e/Olivia_Rodrigo_-_Good_4_U.png"
+    },
+    {
+        "Name": "Heat Waves",
+        "Duration": "3:58",
+        "Artist": "Glass Animals",
+        "src": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b0/Glass_Animals_-_Heat_Waves.png/220px-Glass_Animals_-_Heat_Waves.png"
+    },
+    {
+        "Name": "Butter",
+        "Duration": "2:45",
+        "Artist": "BTS",
+        "src": "https://upload.wikimedia.org/wikipedia/en/d/db/BTS_-_Butter.png"
+    },
+    {
+        "Name": "Permission to Dance",
+        "Duration": "3:07",
+        "Artist": "BTS",
+        "src": "https://upload.wikimedia.org/wikipedia/en/0/04/BTS_-_Permission_to_Dance.png"
+    },
+    {
+        "Name": "Leave The Door Open",
+        "Duration": "4:02",
+        "Artist": "Silk Sonic",
+        "src": "https://i.scdn.co/image/ab67616d0000b2730d18a58b311b58820ba4735f"
+    },
+    {
+        "Name": "Astronaut In The Ocean",
+        "Duration": "2:12",
+        "Artist": "Masked Wolf",
+        "src": "https://i.ytimg.com/vi/VAq90fYvZ2w/maxresdefault.jpg"
+    },
+    {
+        "Name": "Roar",
+        "Duration": "3:42",
+        "Artist": "Katy Perry",
+        "src": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fc/Katy_Perry_-_Roar.png/220px-Katy_Perry_-_Roar.png"
+    },
+    {
+        "Name": "Senorita",
+        "Duration": "3:11",
+        "Artist": "Shawn Mendes & Camila Cabello",
+        "src": "https://upload.wikimedia.org/wikipedia/en/thumb/0/06/Shawn_Mendes_and_Camila_Cabello_-_Senorita.png/220px-Shawn_Mendes_and_Camila_Cabello_-_Senorita.png"
+    },
+    {
+        "Name": "Sunflower",
+        "Duration": "2:38",
+        "Artist": "Post Malone & Swae Lee",
+        "src": "https://upload.wikimedia.org/wikipedia/en/4/41/Post_Malone_and_Swae_Lee_-_Sunflower.png"
+    },
+    {
+        "Name": "Bad Guy",
+        "Duration": "3:14",
+        "Artist": "Billie Eilish",
+        "src": "https://upload.wikimedia.org/wikipedia/en/6/65/Bad_Guy_by_Billie_Eilish.png"
+    },
+    {
+        "Name": "Old Town Road",
+        "Duration": "2:38",
+        "Artist": "Lil Nas X",
+        "src": "https://upload.wikimedia.org/wikipedia/en/c/c7/Lil_Nas_X_-_Old_Town_Road.png"
+    },
+    {
+        "Name": "Lucid Dreams",
+        "Duration": "4:00",
+        "Artist": "Juice WRLD",
+        "src": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4b/Lucid_Dreams_by_Juice_Wrld.jpg/220px-Lucid_Dreams_by_Juice_Wrld.jpg"
+    },
+    {
+        "Name": "Happier",
+        "Duration": "3:34",
+        "Artist": "Marshmello & Bastille",
+        "src": "https://upload.wikimedia.org/wikipedia/en/thumb/1/11/Happier_Marshmello_and_Bastille.png/220px-Happier_Marshmello_and_Bastille.png"
+    },
+    {
+        "Name": "Without Me",
+        "Duration": "3:21",
+        "Artist": "Halsey",
+        "src": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a7/Halsey_-_Without_Me.png/220px-Halsey_-_Without_Me.png"
+    },
+    {
+        "Name": "Rockstar",
+        "Duration": "3:38",
+        "Artist": "Post Malone feat. 21 Savage",
+        "src": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ed/Post_Malone_feat._21_Savage_-_Rockstar.png/220px-Post_Malone_feat._21_Savage_-_Rockstar.png"
+    },
+    {
+        "Name": "Sicko Mode",
+        "Duration": "5:12",
+        "Artist": "Travis Scott",
+        "src": "https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Travis_Scott_-_Sicko_Mode.png/220px-Travis_Scott_-_Sicko_Mode.png"
+    },
+    {
+        "Name": "God's Plan",
+        "Duration": "3:19",
+        "Artist": "Drake",
+        "src": "https://upload.wikimedia.org/wikipedia/en/3/3b/Drake_-_God%27s_Plan.png"
+    },
+    {
+        "Name": "In My Feelings",
+        "Duration": "3:38",
+        "Artist": "Drake",
+        "src": "https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Drake_-_In_My_Feelings.png/220px-Drake_-_In_My_Feelings.png"
+    },
+    {
+        "Name": "Mo Bamba",
+        "Duration": "3:03",
+        "Artist": "Sheck Wes",
+        "src": "https://upload.wikimedia.org/wikipedia/en/6/64/Sheck_Wes_-_Mo_Bamba.png"
+    },
+    {
+        "Name": "Stir Fry",
+        "Duration": "3:10",
+        "Artist": "Migos",
+        "src": "https://upload.wikimedia.org/wikipedia/en/4/4f/Migos_-_Stir_Fry.png"
+    },
+    {
+        "Name": "Congratulations",
+        "Duration": "3:40",
+        "Artist": "Post Malone feat. Quavo",
+        "src": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8b/Post_Malone_-_Congratulations.png/220px-Post_Malone_-_Congratulations.png"
+    },
+    {
+        "Name": "Better Now",
+        "Duration": "3:51",
+        "Artist": "Post Malone",
+        "src": "https://upload.wikimedia.org/wikipedia/en/thumb/0/02/Post_Malone_Better_Now.png/220px-Post_Malone_Better_Now.png"
+    },
+    {
+        "Name": "Drip Too Hard",
+        "Duration": "2:25",
+        "Artist": "Lil Baby & Gunna",
+        "src": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f0/Lil_Baby_and_Gunna_-_Drip_Too_Hard.png/220px-Lil_Baby_and_Gunna_-_Drip_Too_Hard.png"
+    },
+    {
+        "Name": "I Like It",
+        "Duration": "4:13",
+        "Artist": "Cardi B, Bad Bunny & J Balvin",
+        "src": "https://upload.wikimedia.org/wikipedia/en/thumb/1/18/Cardi_B%2C_Bad_Bunny_and_J_Balvin_-_I_Like_It.png/220px-Cardi_B%2C_Bad_Bunny_and_J_Balvin_-_I_Like_It.png"
+    },
+    {
+        "Name": "Taki Taki",
+        "Duration": "3:33",
+        "Artist": "DJ Snake feat. Selena Gomez, Ozuna & Cardi B",
+        "src": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a3/DJ_Snake_-_Taki_Taki.png/220px-DJ_Snake_-_Taki_Taki.png"
+    },
+    {
+        "Name": "Girls Like You",
+        "Duration": "3:56",
+        "Artist": "Maroon 5 feat. Cardi B",
+        "src": "https://upload.wikimedia.org/wikipedia/en/thumb/5/56/Maroon_5_-_Girls_Like_You.png/220px-Maroon_5_-_Girls_Like_You.png"
+    },
+    {
+        "Name": "Yes Indeed",
+        "Duration": "2:22",
+        "Artist": "Lil Baby & Drake",
+        "src": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1e/Yes_Indeed_single_cover.jpg/220px-Yes_Indeed_single_cover.jpg"
+    },
+    {
+        "Name": "FEFE",
+        "Duration": "3:00",
+        "Artist": "6ix9ine feat. Nicki Minaj & Murda Beatz",
+        "src": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1e/FEFE_%28single_cover%29.png/220px-FEFE_%28single_cover%29.png"
+    },
+    {
+        "Name": "No Tears Left to Cry",
+        "Duration": "3:25",
+        "Artist": "Ariana Grande",
+        "src": "https://upload.wikimedia.org/wikipedia/en/thumb/4/46/Ariana_Grande_-_No_Tears_Left_to_Cry.png/220px-Ariana_Grande_-_No_Tears_Left_to_Cry.png"
+    },
+    {
+        "Name": "Lucid Dreams",
+        "Duration": "4:00",
+        "Artist": "Juice WRLD",
+        "src": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4b/Lucid_Dreams_by_Juice_Wrld.jpg/220px-Lucid_Dreams_by_Juice_Wrld.jpg"
+    },
+    {
+        "Name": "SAD!",
+        "Duration": "2:46",
+        "Artist": "XXXTentacion",
+        "src": "https://upload.wikimedia.org/wikipedia/en/thumb/0/02/SAD%21_by_XXXTentacion.jpg/220px-SAD%21_by_XXXTentacion.jpg"
+    },
+    {
+        "Name": "Bodak Yellow",
+        "Duration": "3:44",
+        "Artist": "Cardi B",
+        "src": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1a/Cardi_B_-_Bodak_Yellow.png/220px-Cardi_B_-_Bodak_Yellow.png"
+    },
+    {
+        "Name": "XO TOUR Llif3",
+        "Duration": "3:02",
+        "Artist": "Lil Uzi Vert",
+        "src": "https://upload.wikimedia.org/wikipedia/en/8/84/Lil_Uzi_Vert_-_XO_TOUR_Llif3.png"
+    },
+    {
+        "Name": "rockstar",
+        "Duration": "3:38",
+        "Artist": "Post Malone feat. 21 Savage",
+        "src": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ed/Post_Malone_feat._21_Savage_-_Rockstar.png/220px-Post_Malone_feat._21_Savage_-_Rockstar.png"
+    },
+    {
+        "Name": "Havana",
+        "Duration": "3:36",
+        "Artist": "Camila Cabello feat. Young Thug",
+        "src": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a3/Havana_%28featuring_Young_Thug%29_%28Official_Single_Cover%29_by_Camila_Cabello.png/220px-Havana_%28featuring_Young_Thug%29_%28Official_Single_Cover%29_by_Camila_Cabello.png"
+    },
+    {
+        "Name": "Bank Account",
+        "Duration": "3:40",
+        "Artist": "21 Savage",
+        "src": "https://upload.wikimedia.org/wikipedia/en/5/54/21_Savage_-_Bank_Account.png"
+    },
+    {
+        "Name": "Congratulations",
+        "Duration": "3:40",
+        "Artist": "Post Malone feat. Quavo",
+        "src": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8b/Post_Malone_-_Congratulations.png/220px-Post_Malone_-_Congratulations.png"
+    },
+    {
+        "Name": "Gucci Gang",
+        "Duration": "2:04",
+        "Artist": "Lil Pump",
+        "src": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d7/Lil_Pump_-_Gucci_Gang.jpg/220px-Lil_Pump_-_Gucci_Gang.jpg"
+    },
+    {
+        "Name": "Mask Off",
+        "Duration": "3:25",
+        "Artist": "Future",
+        "src": "https://upload.wikimedia.org/wikipedia/en/thumb/2/21/Mask_Off_%28single_cover%29_by_Future.png/220px-Mask_Off_%28single_cover%29_by_Future.png"
+    },
+    {
+        "Name": "Plain Jane",
+        "Duration": "2:53",
+        "Artist": "A$AP Ferg",
+        "src": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7a/A$AP_Ferg_Plain_Jane.png/220px-A$AP_Ferg_Plain_Jane.png"
+    },
+    {
+        "Name": "Drowning",
+        "Duration": "3:29",
+        "Artist": "A Boogie Wit Da Hoodie feat. Kodak Black",
+        "src": "https://upload.wikimedia.org/wikipedia/en/thumb/1/10/A_Boogie_Wit_da_Hoodie_feat._Kodak_Black_-_Drowning_%28Official_Single_Cover%29.png/220px-A_Boogie_Wit_da_Hoodie_feat._Kodak_Black_-_Drowning_%28Official_Single_Cover%29.png"
+    },
+    {
+        "Name": "Tunnel Vision",
+        "Duration": "4:31",
+        "Artist": "Kodak Black",
+        "src": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0a/Tunnel_Vision_by_Kodak_Black.jpg/220px-Tunnel_Vision_by_Kodak_Black.jpg"
+    },
+    {
+        "Name": "Gummo",
+        "Duration": "2:39",
+        "Artist": "6ix9ine",
+        "src": "https://upload.wikimedia.org/wikipedia/en/thumb/2/28/Gummo_%28Official_Single_Cover%29_by_6ix9ine.png/220px-Gummo_%28Official_Single_Cover%29_by_6ix9ine.png"
+    },
+    {
+        "Name": "Magnolia",
+        "Duration": "3:01",
+        "Artist": "Playboi Carti",
+        "src": "https://upload.wikimedia.org/wikipedia/en/3/38/Playboi_Carti_-_Magnolia.png"
+    },
+    {
+        "Name": "1-800-273-8255",
+        "Duration": "4:10",
+        "Artist": "Logic feat. Alessia Cara & Khalid",
+        "src": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1b/Logic_1-800-273-8255.png/220px-Logic_1-800-273-8255.png"
+    },
+    {
+        "Name": "Caroline",
+        "Duration": "4:04",
+        "Artist": "Aminé",
+        "src": "https://upload.wikimedia.org/wikipedia/en/1/10/Amin%C3%A9_-_Caroline.png"
+    },
+    {
+        "Name": "Broccoli",
+        "Duration": "3:45",
+        "Artist": "D.R.A.M. feat. Lil Yachty",
+        "src": "https://upload.wikimedia.org/wikipedia/en/6/64/D.R.A.M._feat._Lil_Yachty_-_Broccoli.jpg"
+    },
+    {
+        "Name": "Black Beatles",
+        "Duration": "4:52",
+        "Artist": "Rae Sremmurd feat. Gucci Mane",
+        "src": "https://upload.wikimedia.org/wikipedia/en/3/3e/Black_Beatles_%28official_single_cover%29_by_Rae_Sremmurd.png"
+    },
+    {
+        "Name": "Don't Wanna Know",
+        "Duration": "3:34",
+        "Artist": "Maroon 5 feat. Kendrick Lamar",
+        "src": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/Maroon_5_-_Don%27t_Wanna_Know.png/220px-Maroon_5_-_Don%27t_Wanna_Know.png"
+    },
+    {
+        "Name": "Bad Things",
+        "Duration": "3:59",
+        "Artist": "Machine Gun Kelly & Camila Cabello",
+        "src": "https://upload.wikimedia.org/wikipedia/en/thumb/4/48/Bad_Things_by_Machine_Gun_Kelly_and_Camila_Cabello.jpg/220px-Bad_Things_by_Machine_Gun_Kelly_and_Camila_Cabello.jpg"
+    },
+    {
+        "Name": "Black Beatles",
+        "Duration": "4:52",
+        "Artist": "Rae Sremmurd feat. Gucci Mane",
+        "src": "https://upload.wikimedia.org/wikipedia/en/3/3e/Black_Beatles_%28official_single_cover%29_by_Rae_Sremmurd.png"
+    },
+    {
+        "Name": "Heathens",
+        "Duration": "3:15",
+        "Artist": "Twenty One Pilots",
+        "src": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ad/Heathens_by_Twenty_One_Pilots.png/220px-Heathens_by_Twenty_One_Pilots.png"
+    },
+    {
+        "Name": "Starboy",
+        "Duration": "3:50",
+        "Artist": "The Weeknd feat. Daft Punk",
+        "src": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/The_Weeknd_-_Starboy_%28Single%29.png/220px-The_Weeknd_-_Starboy_%28Single%29.png"
+    },
+    {
+        "Name": "Fake Love",
+        "Duration": "3:27",
+        "Artist": "Drake",
+        "src": "https://upload.wikimedia.org/wikipedia/en/4/44/Drake_Fake_Love.png"
+    },
+    {
+        "Name": "Black Beatles",
+        "Duration": "4:52",
+        "Artist": "Rae Sremmurd feat. Gucci Mane",
+        "src": "https://upload.wikimedia.org/wikipedia/en/3/3e/Black_Beatles_%28official_single_cover%29_by_Rae_Sremmurd.png"
+    },
+    {
+        "Name": "Let Me Love You",
+        "Duration": "3:25",
+        "Artist": "DJ Snake feat. Justin Bieber",
+        "src": "https://upload.wikimedia.org/wikipedia/en/1/11/DJ_Snake_feat._Justin_Bieber_-_Let_Me_Love_You.jpg"
+    },
+    {
+        "Name": "In the Name of Love",
+        "Duration": "3:18",
+        "Artist": "Martin Garrix & Bebe Rexha",
+        "src": "https://upload.wikimedia.org/wikipedia/en/7/70/In_the_Name_of_Love_single_cover.png"
+    },
+    {
+        "Name": "Love Yourself",
+        "Duration": "3:53",
+        "Artist": "Justin Bieber",
+        "src": "https://upload.wikimedia.org/wikipedia/en/7/71/Justin_Bieber_-_Love_Yourself.png"
+    },
+    {
+        "Name": "Needed Me",
+        "Duration": "3:11",
+        "Artist": "Rihanna",
+        "src": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/Rihanna_-_Needed_Me.png/220px-Rihanna_-_Needed_Me.png"
+    },
+    {
+        "Name": "24K Magic",
+        "Duration": "3:46",
+        "Artist": "Bruno Mars",
+        "src": "https://upload.wikimedia.org/wikipedia/en/f/ff/Bruno_Mars_-_24K_Magic.png"
+    },
+    {
+        "Name": "Closer",
+        "Duration": "4:04",
+        "Artist": "The Chainsmokers feat. Halsey",
+        "src": "https://upload.wikimedia.org/wikipedia/en/thumb/c/ca/The_Chainsmokers_feat._Halsey_-_Closer.png/220px-The_Chainsmokers_feat._Halsey_-_Closer.png"
+    },
+    {
+        "Name": "Let Me Love You",
+        "Duration": "3:25",
+        "Artist": "DJ Snake feat. Justin Bieber",
+        "src": "https://upload.wikimedia.org/wikipedia/en/1/11/DJ_Snake_feat._Justin_Bieber_-_Let_Me_Love_You.jpg"
+    },
+    {
+        "Name": "Starboy",
+        "Duration": "3:50",
+        "Artist": "The Weeknd feat. Daft Punk",
+        "src": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/The_Weeknd_-_Starboy_%28Single%29.png/220px-The_Weeknd_-_Starboy_%28Single%29.png"
+    },
+    {
+        "Name": "Famous",
+        "Duration": "3:14",
+        "Artist": "Kanye West feat. Rihanna",
+        "src": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Famous_by_Kanye_West.jpg/220px-Famous_by_Kanye_West.jpg"
+    },
+    {
+        "Name": "Panda",
+        "Duration": "4:06",
+        "Artist": "Desiigner",
+        "src": "https://upload.wikimedia.org/wikipedia/en/thumb/8/82/Desiigner_-_Panda.jpg/220px-Desiigner_-_Panda.jpg"
+    },
+    {
+        "Name": "Work",
+        "Duration": "3:39",
+        "Artist": "Rihanna feat. Drake",
+        "src": "https://upload.wikimedia.org/wikipedia/en/thumb/4/42/Rihanna_feat._Drake_-_Work.png/220px-Rihanna_feat._Drake_-_Work.png"
+    },
+    {
+        "Name": "One Dance",
+        "Duration": "2:54",
+        "Artist": "Drake feat. Wizkid & Kyla",
+        "src": "https://upload.wikimedia.org/wikipedia/en/thumb/4/43/Drake_-_One_Dance.png/220px-Drake_-_One_Dance.png"
+    },
+    {
+        "Name": "Can't Stop the Feeling!",
+        "Duration": "3:56",
+        "Artist": "Justin Timberlake",
+        "src": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f7/Justin_Timberlake_-_Can%27t_Stop_the_Feeling%21.png/220px-Justin_Timberlake_-_Can%27t_Stop_the_Feeling%21.png"
+    }
+  ]
